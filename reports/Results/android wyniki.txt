@@ -1,0 +1,60 @@
+LR dla nie zbalansowanych
+               precision    recall  f1-score   support
+
+           0       0.97      0.98      0.97       173
+           1       0.99      0.99      0.99       720
+
+    accuracy                           0.99       893
+   macro avg       0.98      0.98      0.98       893
+weighted avg       0.99      0.99      0.99       893
+
+LR dla nie zbalansowanych
+               precision    recall  f1-score   support
+
+           0       0.95      0.99      0.97       173
+           1       1.00      0.99      0.99       720
+
+    accuracy                           0.99       893
+   macro avg       0.97      0.99      0.98       893
+weighted avg       0.99      0.99      0.99       893
+
+RF dla nie zbalansowanych
+               precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       173
+           1       1.00      1.00      1.00       720
+
+    accuracy                           1.00       893
+   macro avg       0.99      1.00      0.99       893
+weighted avg       1.00      1.00      1.00       893
+
+RF dla zbalansowanych
+               precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       173
+           1       1.00      1.00      1.00       720
+
+    accuracy                           1.00       893
+   macro avg       0.99      1.00      0.99       893
+weighted avg       1.00      1.00      1.00       893
+
+DT dla nie zbalansowanych
+               precision    recall  f1-score   support
+
+           0       0.99      0.98      0.98       173
+           1       0.99      1.00      1.00       720
+
+    accuracy                           0.99       893
+   macro avg       0.99      0.99      0.99       893
+weighted avg       0.99      0.99      0.99       893
+
+DT dla zbalansowanych
+               precision    recall  f1-score   support
+
+           0       0.98      0.99      0.99       173
+           1       1.00      1.00      1.00       720
+
+    accuracy                           0.99       893
+   macro avg       0.99      0.99      0.99       893
+weighted avg       0.99      0.99      0.99       893
+
