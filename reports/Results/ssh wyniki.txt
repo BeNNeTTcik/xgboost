@@ -1,4 +1,5 @@
-LR dla nie zbalansowanych               precision    recall  f1-score   support
+LR dla nie zbalansowanych
+               precision    recall  f1-score   support
 
            0       0.98      0.93      0.95        43
            1       0.81      0.93      0.87        14
@@ -7,7 +8,8 @@ LR dla nie zbalansowanych               precision    recall  f1-score   support
    macro avg       0.89      0.93      0.91        57
 weighted avg       0.94      0.93      0.93        57
 
-LR dla nie zbalansowanych               precision    recall  f1-score   support
+LR dla nie zbalansowanych
+               precision    recall  f1-score   support
 
            0       0.98      0.98      0.98        43
            1       0.93      0.93      0.93        14
@@ -16,7 +18,8 @@ LR dla nie zbalansowanych               precision    recall  f1-score   support
    macro avg       0.95      0.95      0.95        57
 weighted avg       0.96      0.96      0.96        57
 
-RF dla nie zbalansowanych               precision    recall  f1-score   support
+RF dla nie zbalansowanych
+               precision    recall  f1-score   support
 
            0       0.98      0.98      0.98        43
            1       0.93      0.93      0.93        14
@@ -25,7 +28,8 @@ RF dla nie zbalansowanych               precision    recall  f1-score   support
    macro avg       0.95      0.95      0.95        57
 weighted avg       0.96      0.96      0.96        57
 
-RF dla zbalansowanych               precision    recall  f1-score   support
+RF dla zbalansowanych
+               precision    recall  f1-score   support
 
            0       0.98      0.98      0.98        43
            1       0.93      0.93      0.93        14
@@ -34,7 +38,8 @@ RF dla zbalansowanych               precision    recall  f1-score   support
    macro avg       0.95      0.95      0.95        57
 weighted avg       0.96      0.96      0.96        57
 
-DT dla nie zbalansowanych               precision    recall  f1-score   support
+DT dla nie zbalansowanych
+               precision    recall  f1-score   support
 
            0       0.98      0.98      0.98        43
            1       0.93      0.93      0.93        14
@@ -43,7 +48,8 @@ DT dla nie zbalansowanych               precision    recall  f1-score   support
    macro avg       0.95      0.95      0.95        57
 weighted avg       0.96      0.96      0.96        57
 
-DT dla zbalansowanych               precision    recall  f1-score   support
+DT dla zbalansowanych
+               precision    recall  f1-score   support
 
            0       0.98      0.98      0.98        43
            1       0.93      0.93      0.93        14
