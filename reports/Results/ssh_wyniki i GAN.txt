@@ -1,0 +1,200 @@
+LR dla nie zbalansowanych
+               precision    recall  f1-score   support
+
+           0    0.97500   0.95122   0.96296        41
+           1    0.88235   0.93750   0.90909        16
+
+    accuracy                        0.94737        57
+   macro avg    0.92868   0.94436   0.93603        57
+weighted avg    0.94899   0.94737   0.94784        57
+
+LR dla zbalansowanych SMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.95122   0.97500        41
+           1    0.88889   1.00000   0.94118        16
+
+    accuracy                        0.96491        57
+   macro avg    0.94444   0.97561   0.95809        57
+weighted avg    0.96881   0.96491   0.96551        57
+
+LR dla zbalansowanych BoarderLineSMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.90244   0.94872        41
+           1    0.80000   1.00000   0.88889        16
+
+    accuracy                        0.92982        57
+   macro avg    0.90000   0.95122   0.91880        57
+weighted avg    0.94386   0.92982   0.93192        57
+
+LR dla zbalansowanych GAN
+               precision    recall  f1-score   support
+
+           0    0.89583   0.97727   0.93478        44
+           1    0.97436   0.88372   0.92683        43
+
+    accuracy                        0.93103        87
+   macro avg    0.93510   0.93050   0.93081        87
+weighted avg    0.93464   0.93103   0.93085        87
+
+RF dla nie zbalansowanych
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+RF dla zbalansowanych SMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+RF dla zbalansowanych BoarderLineSMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+LR dla zbalansowanych GAN
+               precision    recall  f1-score   support
+
+           0    0.91667   1.00000   0.95652        44
+           1    1.00000   0.90698   0.95122        43
+
+    accuracy                        0.95402        87
+   macro avg    0.95833   0.95349   0.95387        87
+weighted avg    0.95785   0.95402   0.95390        87
+
+DT dla nie zbalansowanych
+               precision    recall  f1-score   support
+
+           0    0.95238   0.97561   0.96386        41
+           1    0.93333   0.87500   0.90323        16
+
+    accuracy                        0.94737        57
+   macro avg    0.94286   0.92530   0.93354        57
+weighted avg    0.94703   0.94737   0.94684        57
+
+DT dla zbalansowanych SMOTE
+               precision    recall  f1-score   support
+
+           0    0.97561   0.97561   0.97561        41
+           1    0.93750   0.93750   0.93750        16
+
+    accuracy                        0.96491        57
+   macro avg    0.95655   0.95655   0.95655        57
+weighted avg    0.96491   0.96491   0.96491        57
+
+DT dla zbalansowanych BoarderLineSMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+LR dla zbalansowanych GAN
+               precision    recall  f1-score   support
+
+           0    0.93617   1.00000   0.96703        44
+           1    1.00000   0.93023   0.96386        43
+
+    accuracy                        0.96552        87
+   macro avg    0.96809   0.96512   0.96544        87
+weighted avg    0.96772   0.96552   0.96546        87
+
+XGBoost dla niezbalansowanych
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+XGBoost dla zbalansowanych SMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+XGBoost dla zbalansowanych BoarderLineSMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+LR dla zbalansowanych GAN
+               precision    recall  f1-score   support
+
+           0    0.93478   0.97727   0.95556        44
+           1    0.97561   0.93023   0.95238        43
+
+    accuracy                        0.95402        87
+   macro avg    0.95520   0.95375   0.95397        87
+weighted avg    0.95496   0.95402   0.95399        87
+
+XGBoost RF dla niezbalansowanych
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+XGBoost RF dla zbalansowanych SMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+XGBoost RF dla zbalansowanych BoarderLineSMOTE
+               precision    recall  f1-score   support
+
+           0    1.00000   0.97561   0.98765        41
+           1    0.94118   1.00000   0.96970        16
+
+    accuracy                        0.98246        57
+   macro avg    0.97059   0.98780   0.97868        57
+weighted avg    0.98349   0.98246   0.98261        57
+
+LR dla zbalansowanych GAN
+               precision    recall  f1-score   support
+
+           0    0.95652   1.00000   0.97778        44
+           1    1.00000   0.95349   0.97619        43
+
+    accuracy                        0.97701        87
+   macro avg    0.97826   0.97674   0.97698        87
+weighted avg    0.97801   0.97701   0.97699        87
+
