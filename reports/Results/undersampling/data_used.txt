@@ -1,0 +1,21 @@
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym:
+source
+original       204
+smote           54
+boarderline     53
+gan             51
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu dla kazdej wartosci `source`:
+Oryginal: 56.353591160220994
+Gan: 14.088397790055248
+Boarderline: 14.64088397790055
+SMOTE: 14.917127071823206
