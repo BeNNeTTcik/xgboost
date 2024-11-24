@@ -1,0 +1,40 @@
+Best parameters LR_RUS: {'max_iter': 100, 'random_state': 0}
+Best score LR_RUS: 0.9417156310601413
+Best parameters LR_NM: {'max_iter': 100, 'random_state': 0}
+Best score LR_NM: 0.940817943245421
+Best parameters LR_CNN: {'max_iter': 100, 'random_state': 0}
+Best score LR_CNN: 0.7658799918434807
+Best parameters LR_TL: {'max_iter': 500, 'random_state': 0}
+Best score LR_TL: 0.9592228080852925
+Best parameters DT_RUS: {'max_depth': 8, 'min_samples_leaf': 1, 'random_state': 30}
+Best score DT_RUS: 0.9580692731992212
+Best parameters DT_NM: {'max_depth': 4, 'min_samples_leaf': 1, 'random_state': 0}
+Best score DT_NM: 0.9885714285714287
+Best parameters DT_CNN: {'max_depth': 4, 'min_samples_leaf': 1, 'random_state': 0}
+Best score DT_CNN: 0.8975269940787183
+Best parameters DT_TL: {'max_depth': 8, 'min_samples_leaf': 1, 'random_state': 0}
+Best score DT_TL: 0.9835479093084197
+Best parameters RF_RUS: {'max_depth': 8, 'min_samples_leaf': 1, 'n_estimators': 20, 'random_state': 0}
+Best score RF_RUS: 0.9729230769230769
+Best parameters RF_NM: {'max_depth': 4, 'min_samples_leaf': 1, 'n_estimators': 100, 'random_state': 40}
+Best score RF_NM: 0.9911325724319578
+Best parameters RF_CNN: {'max_depth': 4, 'min_samples_leaf': 2, 'n_estimators': 60, 'random_state': 0}
+Best score RF_CNN: 0.9090282266752855
+Best parameters RF_TL: {'max_depth': 8, 'min_samples_leaf': 1, 'n_estimators': 20, 'random_state': 0}
+Best score RF_TL: 0.9857302831546952
+Best parameters XGB_RUS: {'max_depth': 4, 'subsample': 1}
+Best score XGB_RUS: 0.9495040809543951
+Best parameters XGB_NM: {'max_depth': 4, 'subsample': 0.5}
+Best score XGB_NM: 0.9657446311858078
+Best parameters XGB_CNN: {'max_depth': 4, 'subsample': 0.5}
+Best score XGB_CNN: 0.8670204924074894
+Best parameters XGB_TL: {'max_depth': 8, 'subsample': 0.7}
+Best score XGB_TL: 0.9801041064198959
+Best parameters XGB_RF_RUS: {'max_depth': 4, 'n_estimators': 20, 'random_state': 20, 'subsample': 0.5}
+Best score XGB_RF_RUS: 0.9610653694131954
+Best parameters XGB_RF_NM: {'max_depth': 8, 'n_estimators': 20, 'random_state': 20, 'subsample': 0.6}
+Best score XGB_RF_NM: 0.9819018032011886
+Best parameters XGB_RF_CNN: {'max_depth': 8, 'n_estimators': 20, 'random_state': 20, 'subsample': 0.9}
+Best score XGB_RF_CNN: 0.8707070707070708
+Best parameters XGB_RF_TL: {'max_depth': 4, 'n_estimators': 20, 'random_state': 10, 'subsample': 0.5}
+Best score XGB_RF_TL: 0.9827227643577027
