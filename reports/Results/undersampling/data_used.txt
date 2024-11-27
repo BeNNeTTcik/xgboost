@@ -19,3 +19,162 @@ Oryginal: 56.353591160220994
 Gan: 14.088397790055248
 Boarderline: 14.64088397790055
 SMOTE: 14.917127071823206
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS:
+source
+original       190
+gan             48
+smote           43
+boarderline     39
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS dla kazdej wartosci `source`:
+Oryginal: 59.375
+GAN: 15.0
+Boarderline SMOTE: 12.1875
+SMOTE: 13.4375
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym NM:
+source
+original    168
+smote        27
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu NM dla kazdej wartosci `source`:
+Oryginal: 86.15384615384616
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 13.846153846153847
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym CNN:
+source
+original    175
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu CNN dla kazdej wartosci `source`:
+Oryginal: 100.0
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 0
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym TL:
+source
+original       216
+gan            102
+boarderline     92
+smote           80
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu TL dla kazdej wartosci `source`:
+Oryginal: 44.08163265306123
+GAN: 20.816326530612244
+Boarderline SMOTE: 18.775510204081634
+SMOTE: 16.3265306122449
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS:
+source
+original       187
+gan             51
+boarderline     47
+smote           45
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS dla kazdej wartosci `source`:
+Oryginal: 56.666666666666664
+GAN: 15.454545454545453
+Boarderline SMOTE: 14.242424242424242
+SMOTE: 13.636363636363635
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym NM:
+source
+original       170
+smote           27
+boarderline      1
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu NM dla kazdej wartosci `source`:
+Oryginal: 85.85858585858585
+GAN: 0
+Boarderline SMOTE: 0.5050505050505051
+SMOTE: 13.636363636363635
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym CNN:
+source
+original    180
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu CNN dla kazdej wartosci `source`:
+Oryginal: 100.0
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 0
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym TL:
+source
+original       216
+gan            101
+boarderline     91
+smote           79
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu TL dla kazdej wartosci `source`:
+Oryginal: 44.35318275154005
+GAN: 20.739219712525667
+Boarderline SMOTE: 18.68583162217659
+SMOTE: 16.2217659137577
