@@ -274,3 +274,287 @@ Boarderline SMOTE: 18.852459016393443
 SMOTE: 15.983606557377051
 
 
+Uzyty model undersamplingu: RUS
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS:
+source
+original       188
+gan             53
+boarderline     52
+smote           33
+Name: count, dtype: int64
+(4,)
+
+Procent uzycia danych do treningu RUS dla kazdej wartosci `source`:
+Oryginal: 57.668711656441715
+GAN: 16.257668711656443
+Boarderline SMOTE: 15.950920245398773
+SMOTE: 10.122699386503067
+
+
+Uzyty model undersamplingu: NM
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym NM:
+source
+original       168
+smote           29
+boarderline      2
+Name: count, dtype: int64
+(3,)
+
+Procent uzycia danych do treningu NM dla kazdej wartosci `source`:
+Oryginal: 84.42211055276381
+GAN: 0
+Boarderline SMOTE: 1.0050251256281406
+SMOTE: 14.572864321608039
+
+
+Uzyty model undersamplingu: CNN
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym CNN:
+source
+original    179
+Name: count, dtype: int64
+(1,)
+
+Procent uzycia danych do treningu CNN dla kazdej wartosci `source`:
+Oryginal: 100.0
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 0
+
+
+Uzyty model undersamplingu: TL
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym TL:
+source
+original       216
+gan            102
+boarderline     92
+smote           78
+Name: count, dtype: int64
+(4,)
+
+Procent uzycia danych do treningu TL dla kazdej wartosci `source`:
+Oryginal: 44.26229508196721
+GAN: 20.901639344262296
+Boarderline SMOTE: 18.852459016393443
+SMOTE: 15.983606557377051
+
+
+Uzyty model undersamplingu: RUS
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS:
+source
+original       188
+gan             53
+boarderline     52
+smote           33
+Name: count, dtype: int64
+(4,)
+
+Procent uzycia danych do treningu RUS dla kazdej wartosci `source`:
+Oryginal: 57.668711656441715
+GAN: 16.257668711656443
+Boarderline SMOTE: 15.950920245398773
+SMOTE: 10.122699386503067
+
+
+Uzyty model undersamplingu: NM
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym NM:
+source
+original       168
+smote           29
+boarderline      2
+Name: count, dtype: int64
+(3,)
+
+Procent uzycia danych do treningu NM dla kazdej wartosci `source`:
+Oryginal: 84.42211055276381
+GAN: 0
+Boarderline SMOTE: 1.0050251256281406
+SMOTE: 14.572864321608039
+
+
+Uzyty model undersamplingu: CNN
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym CNN:
+source
+original    179
+Name: count, dtype: int64
+(1,)
+
+Procent uzycia danych do treningu CNN dla kazdej wartosci `source`:
+Oryginal: 100.0
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 0
+
+
+Uzyty model undersamplingu: TL
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym TL:
+source
+original       216
+gan            102
+boarderline     92
+smote           78
+Name: count, dtype: int64
+(4,)
+
+Procent uzycia danych do treningu TL dla kazdej wartosci `source`:
+Oryginal: 44.26229508196721
+GAN: 20.901639344262296
+Boarderline SMOTE: 18.852459016393443
+SMOTE: 15.983606557377051
+
+
+Uzyty model undersamplingu: RUS
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS:
+source
+original       197
+gan             59
+boarderline     44
+smote           36
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS dla kazdej wartosci `source`:
+Oryginal: 58.63095238095239
+GAN: 17.559523809523807
+Boarderline SMOTE: 13.095238095238097
+SMOTE: 10.714285714285714
+
+
+Uzyty model undersamplingu: NM
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym NM:
+source
+original       171
+smote           26
+boarderline      4
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu NM dla kazdej wartosci `source`:
+Oryginal: 85.07462686567165
+GAN: 0
+Boarderline SMOTE: 1.9900497512437811
+SMOTE: 12.935323383084576
+
+
+Uzyty model undersamplingu: CNN
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym CNN:
+source
+original    184
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu CNN dla kazdej wartosci `source`:
+Oryginal: 100.0
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 0
+
+
+Uzyty model undersamplingu: TL
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original       216
+gan            110
+boarderline     99
+smote           81
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym TL:
+source
+original       216
+gan            106
+boarderline     95
+smote           80
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu TL dla kazdej wartosci `source`:
+Oryginal: 43.460764587525155
+GAN: 21.32796780684105
+Boarderline SMOTE: 19.114688128772634
+SMOTE: 16.096579476861166
+
+
