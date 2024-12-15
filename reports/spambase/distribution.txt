@@ -1,0 +1,241 @@
+Uzyty model undersamplingu: RUS_1
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_1:
+source
+original    2124
+smote        225
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_1 dla kazdej wartosci `source`:
+Oryginal: 90.42145593869732
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 9.578544061302683
+
+
+Uzyty model undersamplingu: RUS_2
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_2:
+source
+original    2124
+smote        220
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_2 dla kazdej wartosci `source`:
+Oryginal: 90.61433447098976
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 9.385665529010238
+
+
+Uzyty model undersamplingu: RUS_3
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_3:
+source
+original    2124
+smote        233
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_3 dla kazdej wartosci `source`:
+Oryginal: 90.11455239711498
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 9.885447602885025
+
+
+Uzyty model undersamplingu: RUS_4
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_4:
+source
+original    2124
+smote        188
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_4 dla kazdej wartosci `source`:
+Oryginal: 91.86851211072664
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 8.131487889273355
+
+
+Uzyty model undersamplingu: RUS_5
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_5:
+source
+original    2124
+smote        183
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_5 dla kazdej wartosci `source`:
+Oryginal: 92.06762028608583
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 7.932379713914174
+
+
+Uzyty model undersamplingu: RUS_6
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_6:
+source
+original    2124
+smote        208
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_6 dla kazdej wartosci `source`:
+Oryginal: 91.08061749571183
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 8.919382504288166
+
+
+Uzyty model undersamplingu: RUS_7
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_7:
+source
+original    2124
+smote        219
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_7 dla kazdej wartosci `source`:
+Oryginal: 90.65300896286811
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 9.346991037131883
+
+
+Uzyty model undersamplingu: RUS_8
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_8:
+source
+original    2124
+smote        209
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_8 dla kazdej wartosci `source`:
+Oryginal: 91.04157736819546
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 8.958422631804543
+
+
+Uzyty model undersamplingu: RUS_9
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_9:
+source
+original    2124
+smote        209
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_9 dla kazdej wartosci `source`:
+Oryginal: 91.04157736819546
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 8.958422631804543
+
+
+Uzyty model undersamplingu: RUS_10
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym RUS_10:
+source
+original    2124
+smote        214
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu RUS_10 dla kazdej wartosci `source`:
+Oryginal: 90.84687767322498
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 9.153122326775023
+
+
+Uzyty model undersamplingu: NM
+Rozklad `source` w oryginalnym zbiorze danych:
+source
+original            3368
+gan                  622
+smote                622
+borderline smote     622
+Name: count, dtype: int64
+
+Rozklad `source` w zbiorze treningowym NM:
+source
+original    1058
+Name: count, dtype: int64
+
+Procent uzycia danych do treningu NM dla kazdej wartosci `source`:
+Oryginal: 100.0
+GAN: 0
+Boarderline SMOTE: 0
+SMOTE: 0
+
+
