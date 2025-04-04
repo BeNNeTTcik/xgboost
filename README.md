@@ -35,10 +35,14 @@
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │
 ├── reports            <- Reports and params for machine learning models
-│   ├── IPS            <- Output reports: Metrix [Accuracy, Recall, F1-score, Precision] for NID dataset
+│   ├── NID            <- Output reports: Metrix [Accuracy, Recall, F1-score, Precision] for NID dataset
 │   │   └── conf matrix    <- Confussion matrix
-│   ├── spambase       <- Trained Reports from android and SSH logs for different model
-│   └── ssh            <- Decision Trees and Random Forest visualisation graphics 
+│   ├── spambase       <- Output reports: Metrix [Accuracy, Recall, F1-score, Precision] for Spambase dataset
+│   │   ├── conf matrix            <- Confussion matrix oversampling
+|   │   └── conf matrix under      <- Confussion matrix hybrid
+│   └── ssh            <- Decision Trees and Random Forest visualisation graphics
+│       ├── conf matrix            <- Confussion matrix oversampling
+|       └── conf matrix under      <- Confussion matrix hybrid
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
