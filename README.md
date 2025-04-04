@@ -14,23 +14,26 @@
 │   ├── interim        <- Intermediate data that has been transformed
 │   ├── processed      <- The final, canonical data sets for modeling
 │   ├── raw            <- The original, immutable data dump
-│   ├── android_malware   <- Dataset from []()
-│   └── ssh_logs       <- Dataset from []() 
+│   ├── generated      <- Examples of generated data 
+│   ├── NID            <- Dataset [NID](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
+│   ├── spambase       <- Dataset [Spambase](https://www.kaggle.com/datasets/colormap/spambase)
+│   └── ssh_logs       <- Dataset [SSH_Logs](https://www.kaggle.com/datasets/osamac/ssh-logs-with-attack-classification) 
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
 ├── notebooks          <- Jupyter notebooks. Workplace. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`
+│   ├── nid.ipynb      <- Script for NID dataset (only oversampling)
+│   ├── ssh2.ipynb     <- Script for SSH_logs dataset (only oversampling)
+│   ├── spam.ipynb     <- Script for spam dataset (only oversampling)
+│   └── undersampling.ipynb        <- Script for hybrid algorithm
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   ├── best params    <- SS with best params, which was callculated by GridSearch()
-│   ├── conf matrix    <- Confusion Matrixes SS for all models 
-│   ├── figures        <- Generated graphics and figures to be used in reporting
-│   ├── Results        <- Trained Reports from android and SSH logs for different model
-│   └── tree           <- Decision Trees and Random Forest visualisation graphics 
+├── reports            <- Reports and params for machine learning models
+│   ├── IPS            <- Output reports: Metrix [Accuracy, Recall, F1-score, Precision] for NID dataset
+│   │   └── conf matrix    <- Confussion matrix
+│   ├── spambase       <- Trained Reports from android and SSH logs for different model
+│   └── ssh            <- Decision Trees and Random Forest visualisation graphics 
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
