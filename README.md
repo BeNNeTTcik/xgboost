@@ -20,14 +20,14 @@
 │   ├── processed      <- The final, canonical data sets for modeling
 │   ├── raw            <- The original, immutable data dump
 │   ├── generated      <- Examples of generated data 
-│   ├── NID            <- Dataset [NID](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
+│   ├── IPS            <- Dataset [NID](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
 │   ├── spambase       <- Dataset [Spambase](https://www.kaggle.com/datasets/colormap/spambase)
 │   └── ssh_logs       <- Dataset [SSH_Logs](https://www.kaggle.com/datasets/osamac/ssh-logs-with-attack-classification) 
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
 ├── notebooks          <- Jupyter notebooks. Workplace. Naming convention is a number (for ordering),
-│   ├── nid.ipynb      <- Script for NID dataset (only oversampling)
+│   ├── IPS.ipynb      <- Script for NID dataset (only oversampling)
 │   ├── ssh2.ipynb     <- Script for SSH_logs dataset (only oversampling)
 │   ├── spam.ipynb     <- Script for spam dataset (only oversampling)
 │   └── undersampling.ipynb        <- Script for hybrid algorithm
@@ -35,7 +35,7 @@
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │
 ├── reports            <- Reports and params for machine learning models
-│   ├── NID            <- Output reports: Metrix [Accuracy, Recall, F1-score, Precision] for NID dataset
+│   ├── IPS            <- Output reports: Metrix [Accuracy, Recall, F1-score, Precision] for NID dataset
 │   │   └── conf matrix    <- Confussion matrix
 │   ├── spambase       <- Output reports: Metrix [Accuracy, Recall, F1-score, Precision] for Spambase dataset
 │   │   ├── conf matrix            <- Confussion matrix oversampling
