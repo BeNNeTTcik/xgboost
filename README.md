@@ -5,9 +5,9 @@
 </a>
 
 ### Links to datasets
-Dataset [NID](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
-Dataset [Spambase](https://www.kaggle.com/datasets/colormap/spambase)
-Dataset [SSH_Logs](https://www.kaggle.com/datasets/osamac/ssh-logs-with-attack-classification) 
+* Dataset [NID](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)\
+* Dataset [Spambase](https://www.kaggle.com/datasets/colormap/spambase)\
+* Dataset [SSH_Logs](https://www.kaggle.com/datasets/osamac/ssh-logs-with-attack-classification)\
 
 ## Project Organization
 
