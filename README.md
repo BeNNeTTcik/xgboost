@@ -4,6 +4,11 @@
     <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
 </a>
 
+### Links to datasets
+Dataset [NID](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
+Dataset [Spambase](https://www.kaggle.com/datasets/colormap/spambase)
+Dataset [SSH_Logs](https://www.kaggle.com/datasets/osamac/ssh-logs-with-attack-classification) 
+
 ## Project Organization
 
 ```
